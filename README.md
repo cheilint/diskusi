@@ -1,6 +1,3 @@
 # diskusi
 
-jawab: appium
-
-jawab:
-cucumber
+jawab: test complate
